@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_1601061_holiday_list</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="List Form Screen">1206759bc30022105d629702b4013127</embedded_screen>
+        <item_view/>
+        <name>List master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-08 07:45:57</sys_created_on>
+        <sys_id>5a06759bc30022105d629702b4013129</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List master_item</sys_name>
+        <sys_package display_value="Holiday List" source="x_1601061_holiday">d1a43997c30022105d629702b40131c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Holiday List">d1a43997c30022105d629702b40131c6</sys_scope>
+        <sys_update_name>sys_sg_master_item_5a06759bc30022105d629702b4013129</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-08 07:45:57</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="List List Screen View Config">8a06359bc30022105d629702b40131f1</view_config>
+    </sys_sg_master_item>
+</record_update>

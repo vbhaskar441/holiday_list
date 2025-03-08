@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1601061_holiday_list">x_1601061_holiday_list</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LIS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-08 07:44:46</sys_created_on>
+        <sys_id>cdc5fd5bc30022105d629702b4013137</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LIS</sys_name>
+        <sys_package display_value="Holiday List" source="x_1601061_holiday">d1a43997c30022105d629702b40131c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Holiday List">d1a43997c30022105d629702b40131c6</sys_scope>
+        <sys_update_name>sys_number_cdc5fd5bc30022105d629702b4013137</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-08 07:44:46</sys_updated_on>
+    </sys_number>
+</record_update>
